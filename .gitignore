@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/
+.env
+.env.local
+
+
+.env.*
+venv/
+env/
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# OS/editor junk
+.DS_Store
+
+
+data/
